@@ -5,7 +5,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: #232525;
+	background-color: #255255255;
 }
 .digital-watch .hour,
 .digital-watch .minute,
