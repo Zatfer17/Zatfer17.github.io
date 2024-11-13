@@ -1,0 +1,1 @@
+eval "$(wget -qO- https://raw.githubusercontent.com/Zatfer17/ubuntu/refs/heads/main/install.sh)"
