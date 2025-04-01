@@ -1,0 +1,13 @@
+baseURL = "https://zatfer.one/"
+languageCode = "en-us"
+title = "Matteo Ferrini"
+theme = "dario"
+
+[params]
+  author = "Matteo Ferrini"
+  description = "My personal website"
+
+  [params.homeInfoParams]
+    Title = "Hello 👋"
+    Content = "Working as a Data Scientist at Lunar, Copenhagen. I like building stuff."
+    Description = "My personal website"
