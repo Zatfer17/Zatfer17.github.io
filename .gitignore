@@ -1,0 +1,24 @@
+# Hugo-generated files
+public/
+resources/
+hugo_stats.json
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Logs and system files
+*.log
+
+# Git and editor files
+.git/
+.vscode/
+.idea/
+
+# Node modules (if using npm)
+node_modules/
+
+# Backup files
+*.bak
+*.swp
+*.swo
